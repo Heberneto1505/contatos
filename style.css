@@ -21,3 +21,14 @@ td{
     padding: 10px;
     text-align: left;
 }
+.flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    height: 100vh;
+}
+.filhos{
+    border: 1px solid black;
+    width: 300px;
+}
